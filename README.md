@@ -17,6 +17,7 @@ It uses the **INPUT_PULLUP** configuration to simplify wiring without requiring 
 ---
 
 ## **Wiring**  
+<img width="425" alt="image" src="https://github.com/user-attachments/assets/f7d7d19a-86d6-4157-94ac-3c7df47c828c" />
 
 - **Button Pin 1** → **GND**  
 - **Button Pin 2** → **Pin 8 (Digital Input)**  
