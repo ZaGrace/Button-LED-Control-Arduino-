@@ -35,7 +35,7 @@ It uses the **INPUT_PULLUP** configuration to simplify wiring without requiring 
 
 ## **Code**  
 
-See the [Button_LED_Control.ino](./Button_LED_Control.ino) file for the complete code.  
+See the [[Button_LED_Control.ino](./Button_LED_Control.ino) file](https://github.com/ZaGrace/Button-LED-Control-Arduino-/blob/main/Button_LED_Control_OnPressed.ino) for the complete code.  
 
 ---
 
